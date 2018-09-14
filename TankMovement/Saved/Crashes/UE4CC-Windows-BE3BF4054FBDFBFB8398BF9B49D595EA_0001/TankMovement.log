@@ -1,0 +1,1096 @@
+﻿Log file open, 09/14/18 15:07:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TankMovement
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180024
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.063s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.14-13.07.57:966][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-13.07.57:966][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.14-13.07.57:977][  0]LogHAL: Display: Platform has ~ 16 GB [17114587136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.14-13.07.57:977][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.14-13.07.57:977][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.14-13.07.57:977][  0]LogInit: Computer: WH93149C
+[2018.09.14-13.07.57:977][  0]LogInit: User: johnwalden
+[2018.09.14-13.07.57:977][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.14-13.07.57:977][  0]LogInit: High frequency timer resolution =3.318392 MHz
+[2018.09.14-13.07.57:977][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.14-13.07.57:977][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.14-13.07.57:978][  0]LogMemory: Process Physical Memory: 101.10 MB used, 101.10 MB peak
+[2018.09.14-13.07.57:978][  0]LogMemory: Process Virtual Memory: 92.14 MB used, 92.14 MB peak
+[2018.09.14-13.07.57:978][  0]LogMemory: Physical Memory: 4735.00 MB used,  11586.75 MB free, 16321.74 MB total
+[2018.09.14-13.07.57:978][  0]LogMemory: Virtual Memory: 4628.22 MB used,  11586.75 MB free, 134217728.00 MB total
+[2018.09.14-13.07.57:991][  0]LogInit: Using OS detected language (en-US).
+[2018.09.14-13.07.57:991][  0]LogInit: Using OS detected locale (en-SE).
+[2018.09.14-13.07.57:992][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.14-13.07.58:365][  0]LogStreaming: Display: Took  0.374s to InitEngineTextLocalization.
+[2018.09.14-13.07.58:366][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.14-13.07.58:385][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.14-13.07.58:385][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.14-13.07.58:558][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.14-13.07.58:558][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.14-13.07.58:613][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.09.14-13.07.58:613][  0]LogD3D11RHI:       2988/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.14-13.07.58:615][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.14-13.07.58:615][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.14-13.07.58:615][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.14-13.07.58:620][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.14-13.07.58:620][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.14-13.07.58:620][  0]LogWindows: EnumDisplayDevices:
+[2018.09.14-13.07.58:620][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.09.14-13.07.58:620][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.09.14-13.07.58:620][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.09.14-13.07.58:621][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.09.14-13.07.58:621][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.14-13.07.58:621][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.09.14-13.07.58:621][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.09.14-13.07.58:621][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.09.14-13.07.58:621][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.09.14-13.07.58:653][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.14-13.07.58:693][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.14-13.07.58:743][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Intermediate/Shaders/WorkingDirectory/6932/).
+[2018.09.14-13.07.58:743][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/john.walden/AppData/Local/Temp/UnrealShaderWorkingDir/DD34123D45B96291873748B6CF49972B/'.
+[2018.09.14-13.07.58:973][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.14-13.07.58:985][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.14-13.07.58:997][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.14-13.07.59:010][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.14-13.07.59:026][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.14-13.07.59:040][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.14-13.07.59:053][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.14-13.07.59:066][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.14-13.07.59:072][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:146][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.14-13.07.59:147][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.14-13.07.59:207][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-13.07.59:207][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.14-13.07.59:230][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-13.07.59:231][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.14-13.07.59:243][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.14-13.07.59:255][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.14-13.07.59:267][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.14-13.07.59:284][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.14-13.07.59:293][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.14-13.07.59:293][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.14-13.07.59:343][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.14-13.07.59:343][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.14-13.07.59:343][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.14-13.08.00:067][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.14-13.08.00:119][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/john.walden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.14-13.08.00:119][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/john.walden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.14-13.08.00:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/Tank-InClass--MiniProject-/TankMovement/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.14-13.08.00:119][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.14-13.08.00:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/Tank-InClass--MiniProject-/TankMovement/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.14-13.08.00:119][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.14-13.08.00:132][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.14-13.08.00:144][  0]LogDerivedDataCache: Using Local data cache path C:/Users/john.walden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.14-13.08.00:144][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.14-13.08.00:144][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.14-13.08.00:162][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.14-13.08.00:164][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.14-13.08.00:164][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.14-13.08.00:236][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.09.14-13.08.00:529][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.14-13.08.00:658][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.14-13.08.00:660][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.14-13.08.00:660][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.14-13.08.00:660][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.14-13.08.00:660][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.14-13.08.00:677][  0]LogNetVersion: TankMovement 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 564003690)
+[2018.09.14-13.08.01:117][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.079326 seconds
+[2018.09.14-13.08.01:123][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.14-13.08.01:123][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.14-13.08.01:123][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.14-13.08.01:885][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.14-13.08.01:898][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.14-13.08.02:031][  0]SourceControl: Source control is disabled
+[2018.09.14-13.08.02:031][  0]SourceControl: Source control is disabled
+[2018.09.14-13.08.02:032][  0]SourceControl: Source control is disabled
+[2018.09.14-13.08.02:033][  0]SourceControl: Source control is disabled
+[2018.09.14-13.08.02:201][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.14-13.08.02:285][  0]LogOcInput: OculusInput pre-init called
+[2018.09.14-13.08.02:344][  0]LogEngine: Initializing Engine...
+[2018.09.14-13.08.02:345][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.14-13.08.02:346][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.14-13.08.02:346][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-13.08.02:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.14-13.08.02:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-13.08.02:545][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.14-13.08.02:557][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.14-13.08.02:571][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-13.08.02:589][  0]LogInit: FAudioDevice initialized.
+[2018.09.14-13.08.02:589][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.14-13.08.02:659][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/john.walden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.14-13.08.02:662][  0]LogInit: Texture streaming: Enabled
+[2018.09.14-13.08.02:675][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.14-13.08.02:686][  0]LogInit: Transaction tracking system initialized
+[2018.09.14-13.08.02:704][  0]BlueprintLog: New page: Editor Load
+[2018.09.14-13.08.02:770][  0]LocalizationService: Localization service is disabled
+[2018.09.14-13.08.03:018][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.14-13.08.03:018][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.14-13.08.03:018][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.14-13.08.03:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.14-13.08.03:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.14-13.08.03:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.14-13.08.03:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.14-13.08.03:119][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/' took 0.01s
+[2018.09.14-13.08.03:119][  0]SourceControl: Source control is disabled
+[2018.09.14-13.08.03:119][  0]Cmd: MAP LOAD FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.14-13.08.03:119][  0]LightingResults: New page: Lighting Build
+[2018.09.14-13.08.03:121][  0]MapCheck: New page: Map Check
+[2018.09.14-13.08.03:121][  0]LightingResults: New page: Lighting Build
+[2018.09.14-13.08.03:328][  0]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] Sequence  has no valid output
+[2018.09.14-13.08.03:330][  0]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [0006.54] Compile of BP_Enemy_Turret successful, but with 1 Warning(s) [in 4 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.08.03:624][  0]LogAIModule: Creating AISystem for world TankScene
+[2018.09.14-13.08.03:647][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.14-13.08.03:672][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.14-13.08.03:729][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.96ms to complete.
+[2018.09.14-13.08.03:729][  0]LogFileHelpers: Loading map 'TankScene' took 0.611
+[2018.09.14-13.08.03:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-13.08.03:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-13.08.03:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-13.08.03:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-13.08.03:859][  0]LogCollectionManager: Loaded 0 collections in 0.001402 seconds
+[2018.09.14-13.08.03:902][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/Collections/' took 0.01s
+[2018.09.14-13.08.03:902][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Developers/johnwalden/Collections/' took 0.01s
+[2018.09.14-13.08.03:902][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Collections/' took 0.01s
+[2018.09.14-13.08.03:902][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.14-13.08.03:911][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2572 classes and 603 folders.
+[2018.09.14-13.08.03:917][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.14-13.08.03:950][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.14-13.08.03:954][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.14-13.08.04:886][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.14-13.08.04:915][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.14-13.08.04:917][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.14-13.08.04:922][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.14-13.08.05:007][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TankMovement
+[2018.09.14-13.08.05:007][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.14-13.08.05:007][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.14-13.08.05:007][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.14-13.08.05:007][  0]LogTemp: BranchPath = WH93149C/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = WH93149C/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.14-13.08.05:007][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\john.walden\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.14-13.08.05:007][  0]LogRenderer: Reallocating scene render targets to support 1144x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-13.08.05:119][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.14-13.08.05:119][  0]LogLoad: (Engine Initialization) Total time: 8.33 seconds
+[2018.09.14-13.08.05:119][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.14-13.08.05:129][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.14-13.08.05:154][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.14-13.08.05:180][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-13.08.05:197][  1]LogAssetRegistry: Asset discovery search completed in 4.9833 seconds
+[2018.09.14-13.08.05:199][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.14-13.08.05:199][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.09.14-13.08.06:155][108]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.14-13.08.08:803][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.08.09:821][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.08.09:896][555]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-13.08.09:914][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TankScene.TankScene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene' with GeneratedClass '/Game/Maps/TankScene.TankScene_C' with ClassGeneratedBy '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene'
+[2018.09.14-13.08.09:914][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-13.08.09:926][555]PIE: New page: PIE session: TankScene (Sep 14, 2018, 5:08:09 PM)
+[2018.09.14-13.08.09:926][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TankScene
+[2018.09.14-13.08.09:937][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010689s)
+[2018.09.14-13.08.09:937][555]LogAIModule: Creating AISystem for world TankScene
+[2018.09.14-13.08.09:938][555]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.09.14-13.08.09:938][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TankScene.TankScene to /Game/Maps/UEDPIE_0_TankScene.TankScene (0.011510s)
+[2018.09.14-13.08.09:969][555]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.14-13.08.09:976][555]LogInit: FAudioDevice initialized.
+[2018.09.14-13.08.10:017][555]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.14-13.08.10:022][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TankScene.TankScene up for play (max tick rate 0) at 2018.09.14-15.08.10
+[2018.09.14-13.08.10:023][555]LogWorld: Bringing up level for play took: 0.005727
+[2018.09.14-13.08.10:039][555]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.14-13.08.10:042][555]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TankScene -0.557
+[2018.09.14-13.08.10:043][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TankScene.TankScene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene' with GeneratedClass '/Game/Maps/TankScene.TankScene_C' with ClassGeneratedBy '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene'
+[2018.09.14-13.08.19:703][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TankScene.TankScene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene' with GeneratedClass '/Game/Maps/TankScene.TankScene_C' with ClassGeneratedBy '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene'
+[2018.09.14-13.08.19:703][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-13.08.19:737][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-13.08.19:738][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TankScene.TankScene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene' with GeneratedClass '/Game/Maps/TankScene.TankScene_C' with ClassGeneratedBy '/Game/Maps/TankScene.TankScene:PersistentLevel.TankScene'
+[2018.09.14-13.08.19:760][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-13.08.19:806][710]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.09.14-13.08.28:999][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.08.36:518][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.08.36:705][687]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene4D6D74D54065E510BAD04CA55B0B1FCB.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.08.36:741][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene_BuiltData" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene_BuiltData.uasset" SILENT=true
+[2018.09.14-13.08.36:825][687]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene_BuiltData88C96D224ECA57D6D04B85923694B9FE.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene_BuiltData.uasset'
+[2018.09.14-13.19.48:696][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.19.50:879][246]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsMain/Enemies/BP_Charger.BP_Charger
+[2018.09.14-13.19.51:305][246]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.14-13.19.52:076][246]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.14-13.19.52:146][247]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.14-13.19.53:912][405]LogSlate: Window 'BP_Charger' being destroyed
+[2018.09.14-13.19.53:917][405]LogSlate: Window 'BP_Charger' being destroyed
+[2018.09.14-13.19.54:907][513]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret
+[2018.09.14-13.20.05:457][489]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.20.18:435][863]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.20.18:989][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.20.19:244][888]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene7B8846914C6E9084E1A89F96DAA54BAC.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.20.19:276][888]LogFileHelpers: Saving map 'TankScene' took 0.353
+[2018.09.14-13.20.19:290][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.20.19:338][888]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret9DBAF8E4455A577B894BAEB0B229C08A.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.21.05:889][368]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.21.06:440][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.21.06:689][389]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene8DED1181432E6A207E8EC29A340D593C.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.21.06:721][389]LogFileHelpers: Saving map 'TankScene' took 0.346
+[2018.09.14-13.21.06:733][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.21.06:777][389]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret657883974023A386F309BDBA89116135.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.21.15:081][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.21.15:117][292]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret71ADDB0D4D8AF1D7B8FD3C96D34CCC5E.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.21.49:479][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.21.49:728][595]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene4EF75A1A4D17E75ECB5C929865FAA221.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.21.49:759][595]LogFileHelpers: Saving map 'TankScene' took 0.344
+[2018.09.14-13.21.49:772][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.21.49:817][595]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret6D9BFE4647004638EB49F89109C55C48.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.21.50:386][655]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.21.50:397][655]LogBlueprint: Error: [Compiler BP_Enemy_Turret] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.09.14-13.21.50:548][655]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [0833.77] Compile of BP_Enemy_Turret failed. 1 Fatal Issue(s) 0 Warning(s) [in 162 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.21.53:102][928]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.14-13.21.59:847][673]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.14-13.22.02:350][949]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.22.02:361][949]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.22.02:361][949]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.22.02:507][949]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [0845.73] Compile of BP_Enemy_Turret failed. 2 Fatal Issue(s) 0 Warning(s) [in 156 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.22.08:355][578]LogSlate: Window 'BP_Enemy_Turret*' being destroyed
+[2018.09.14-13.22.09:561][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.22.09:776][710]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene888F91C24059A58AB7338488E73B0A7B.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.22.09:808][710]LogFileHelpers: Saving map 'TankScene' took 0.311
+[2018.09.14-13.22.09:820][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.22.09:865][710]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret4414135F4B2B23D716D9178A93A3BFA6.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.22.13:429][132]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsMain/Projectiles/BP_EnemyProjProj1.BP_EnemyProjProj1
+[2018.09.14-13.22.15:814][374]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2018.09.14-13.22.22:541][169]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_EnemyColors.M_EnemyColors
+[2018.09.14-13.22.22:544][169]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.22:830][169]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.22:844][169]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.22:861][169]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.22:861][169]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.22:861][169]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.22:885][169]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.09.14-13.22.22:890][169]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.23:481][224]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.14-13.22.23:490][225]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.23:540][231]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.23:720][252]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.23:720][252]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.23:861][268]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.23:943][277]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.24:014][285]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.24:126][298]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.24:471][338]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.24:557][348]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.24:719][367]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.25:164][417]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.22.25:172][418]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.22.25:367][441]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.22.25:785][490]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.22.25:929][507]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.22.26:049][521]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.22.26:380][560]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.22.26:389][561]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.22.26:597][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.22.26:608][586]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.22.26:608][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.22.26:608][586]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.22.26:608][586]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.22.26:895][620]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.22.36:459][766]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.36:473][766]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.36:473][766]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.36:473][766]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.36:475][766]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.36:931][817]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.36:983][823]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.36:990][824]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.37:222][851]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.37:299][860]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.37:335][864]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.37:459][878]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.37:476][878]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.14-13.22.37:476][878]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.37:492][878]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.14-13.22.37:503][878]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.14-13.22.37:577][887]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.14-13.22.37:776][910]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.37:862][920]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.37:925][927]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.38:039][940]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.38:100][947]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.38:152][953]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.38:250][964]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.38:318][972]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.38:368][978]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.38:532][997]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.38:958][ 47]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.38:968][ 48]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.22.38:995][ 51]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.22.39:370][ 95]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.22.39:701][134]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.22.39:761][141]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.22.39:980][166]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.22.40:174][189]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.22.40:532][231]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.22.40:539][232]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.22.40:834][266]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.22.40:965][281]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.22.40:965][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.22.40:965][281]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.22.40:965][281]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.22.43:790][618]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.43:809][618]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.43:809][618]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.43:809][618]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.43:809][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.44:137][654]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.44:214][663]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.44:222][664]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.44:403][685]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.44:496][696]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.44:522][699]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.44:660][715]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.44:709][721]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.44:760][727]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.45:186][777]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.45:358][797]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.22.45:409][803]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.22.45:817][851]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.22.45:867][857]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.22.46:124][887]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.22.46:551][937]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.22.46:559][938]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.22.46:714][956]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.22.47:212][ 14]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.22.47:271][ 21]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.22.47:318][ 26]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.22.47:318][ 26]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.22.47:318][ 26]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.22.47:318][ 26]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.22.49:335][267]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.49:351][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.49:366][267]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.49:366][267]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.49:366][267]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.49:778][315]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.49:812][319]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.50:009][342]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.50:042][346]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.50:154][359]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.50:283][374]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.50:292][375]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.50:327][379]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.50:573][408]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.50:983][456]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.50:990][457]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.22.51:046][463]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.22.51:492][515]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.22.51:622][530]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.22.51:732][543]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.22.52:133][590]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.22.52:310][611]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.22.52:320][612]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.22.52:719][658]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.22.52:729][659]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.22.53:000][690]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.22.53:000][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.22.53:000][690]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.22.53:000][690]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.22.53:687][772]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.53:706][772]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.53:706][772]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.53:706][772]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.53:706][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.53:732][772]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.14-13.22.54:007][804]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.54:025][806]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.54:034][807]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.54:234][830]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.54:243][831]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.54:259][833]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.54:443][854]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.54:453][855]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.54:453][855]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.54:752][889]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.54:963][913]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.22.55:004][918]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.22.55:339][957]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.22.55:365][960]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.22.55:569][984]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.22.55:876][ 19]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.22.55:966][ 29]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.22.55:984][ 31]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.22.56:241][ 60]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.22.56:293][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.22.56:475][ 86]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.22.56:475][ 86]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.22.56:475][ 86]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.22.56:475][ 86]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.22.56:680][110]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.56:693][110]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.56:709][111]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.56:709][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.56:709][111]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.56:949][138]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.56:990][143]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.56:999][144]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.57:183][165]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.57:191][166]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.57:241][172]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.57:386][189]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.57:420][193]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.57:428][194]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.22.57:889][248]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.22.57:895][248]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.57:998][259]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.58:132][273]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.22.58:429][308]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.22.58:616][330]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.22.58:702][340]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.22.58:956][370]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.22.59:023][378]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.22.59:034][379]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.22.59:222][401]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.22.59:272][407]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.22.59:315][412]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.22.59:448][427]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.22.59:459][427]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.22.59:468][427]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.22.59:908][476]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.14-13.22.59:942][480]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.23.00:027][490]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.23.00:283][520]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.23.00:378][531]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.23.00:386][532]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.23.00:541][550]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.23.00:695][568]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.23.00:695][568]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.23.00:746][574]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.23.00:994][603]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.23.01:488][661]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.23.01:539][667]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.23.01:599][674]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.23.02:028][724]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.23.02:231][748]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.23.02:340][761]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.23.02:818][817]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.23.02:887][825]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.23.03:049][844]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.23.03:396][885]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.23.03:466][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.23.03:612][910]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.23.03:612][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.23.03:612][910]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.23.03:612][910]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.23.05:451][130]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.23.05:467][130]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.23.05:482][130]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.23.05:482][130]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.23.05:482][130]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.23.05:827][170]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.23.05:861][174]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.23.06:051][196]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.23.06:169][210]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.23.06:212][215]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.23.06:305][226]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.23.06:459][244]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.23.06:467][245]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.23.06:586][259]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.23.06:997][307]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.23.07:167][327]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.23.07:243][336]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.23.07:685][388]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.23.07:694][389]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.23.07:875][410]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.23.08:310][461]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.23.08:369][468]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.23.08:540][488]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.23.08:962][537]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.23.08:970][538]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.23.09:077][550]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.23.09:077][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.23.09:077][550]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.23.09:077][550]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.23.09:533][604]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.23.09:548][604]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.23.09:548][604]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.23.09:548][604]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.23.09:550][604]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.09.14-13.23.09:576][604]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.14-13.23.09:833][633]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.23.09:858][636]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.23.09:908][642]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.23.10:056][656]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.23.10:091][660]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.23.10:150][667]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.23.10:247][678]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.23.10:265][680]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.23.10:360][691]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.23.10:694][729]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.23.10:781][739]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.23.10:824][744]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.23.11:110][776]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.23.11:198][786]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.23.11:304][798]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.23.11:554][826]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.23.11:632][835]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.23.11:767][850]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.23.12:090][888]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.23.12:160][896]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.23.12:239][905]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.23.12:239][905]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.23.12:239][905]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.23.12:239][905]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.23.22:683][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.23.28:138][793]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.14-13.23.48:584][229]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProjProj12A0BB1E9416291A22BAEC29056829829.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProjProj1.uasset'
+[2018.09.14-13.23.53:909][850]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsMain/Projectiles/BP_PlayerProj.BP_PlayerProj
+[2018.09.14-13.24.01:778][744]BlueprintLog: New page: Compile BP_EnemyProjProj1
+[2018.09.14-13.24.02:377][781]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProjProj1142320D24A99C01D352799851A10577A.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProjProj1.uasset'
+[2018.09.14-13.24.07:868][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.24.16:248][755]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.14-13.24.22:151][449]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.24.22:164][449]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.24.22:164][449]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.24.22:322][449]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [0985.54] Compile of BP_Enemy_Turret failed. 2 Fatal Issue(s) 0 Warning(s) [in 170 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.24.23:634][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.24.23:859][580]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankSceneF52C33964D6B70A5F0B00C91937D08EF.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.24.23:890][580]LogFileHelpers: Saving map 'TankScene' took 0.321
+[2018.09.14-13.24.23:902][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.24.23:947][580]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret097F48D942A0115FB3BBA19DB5F62600.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.24.28:334][976]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.14-13.24.33:004][496]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.24.33:004][496]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.24.33:006][496]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [0996.23] Compile of BP_Enemy_Turret failed. 2 Fatal Issue(s) 0 Warning(s) [in 8 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.24.33:154][496]LogMetaData: Removing '/Game/BlueprintsMain/Projectiles/BP_EnemyProj1.BP_EnemyProj1_C' ref from Metadata '/Game/BlueprintsMain/Projectiles/BP_EnemyProjProj1.PackageMetaData'
+[2018.09.14-13.24.33:154][496]LogMetaData: Removing '/Game/BlueprintsMain/Projectiles/BP_EnemyProj1.SKEL_BP_EnemyProj1_C' ref from Metadata '/Game/BlueprintsMain/Projectiles/BP_EnemyProjProj1.PackageMetaData'
+[2018.09.14-13.24.33:186][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.24.33:217][496]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj14A77510845D73F90087BA39DEB97C603.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.24.33:420][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.24.33:465][496]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret48EA690E45E3DC93549E1E92642946D3.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.24.41:906][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.24.42:128][740]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene152050624447061D940A7FA518B423C7.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.24.42:159][740]LogFileHelpers: Saving map 'TankScene' took 0.319
+[2018.09.14-13.24.52:554][392]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.24.52:566][392]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.24.52:566][392]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.24.52:721][392]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [1015.94] Compile of BP_Enemy_Turret failed. 2 Fatal Issue(s) 0 Warning(s) [in 166 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.25.03:317][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-13.25.19:514][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.25.41:888][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.25.58:631][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.25.58:884][844]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankSceneB83FF46E4CD91DE11565929796F5D9B0.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.25.58:915][844]LogFileHelpers: Saving map 'TankScene' took 0.351
+[2018.09.14-13.25.58:927][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.25.58:977][844]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_TurretB70A11BC4C8D4BE857E6AC9217A46DFB.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.26.05:463][605]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.14-13.26.05:510][605]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.26.05:528][605]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.26.05:528][605]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.26.05:528][605]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.26.06:169][678]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.26.06:169][678]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.26.06:196][681]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.26.06:388][701]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.26.06:420][702]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.26.06:420][702]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.26.06:599][721]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.26.06:736][737]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.26.06:804][745]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.26.07:359][810]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.26.07:572][835]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.26.07:855][868]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.26.08:010][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.26.08:266][915]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.26.08:493][941]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.26.08:657][960]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.26.09:251][ 28]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.26.09:445][ 49]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.26.09:733][ 81]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.26.10:212][135]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.26.10:213][135]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.26.10:213][135]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.26.10:213][135]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.26.32:204][679]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.14-13.26.32:225][679]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret4.CollisionCylinder) Component already registered.
+[2018.09.14-13.26.32:242][679]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.26.32:257][679]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.26.32:257][679]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.26.32:257][679]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.26.32:463][701]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.14-13.26.32:486][701]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret4.CollisionCylinder) Component already registered.
+[2018.09.14-13.26.32:502][701]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.26.32:851][738]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.26.32:912][745]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.26.32:938][748]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.26.32:951][749]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.14-13.26.32:974][749]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret4.CollisionCylinder) Component already registered.
+[2018.09.14-13.26.32:990][749]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.26.33:139][764]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.26.33:232][775]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.26.33:241][776]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.26.33:421][797]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.26.33:544][811]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.26.33:613][818]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.26.33:663][825]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.26.33:784][839]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.26.33:895][852]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.26.33:905][853]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.26.33:965][860]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.26.34:110][877]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.26.34:564][923]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.26.34:615][929]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.26.34:657][934]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.26.35:120][988]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.26.35:393][ 20]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.26.35:410][ 22]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.26.35:889][ 78]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.26.35:974][ 88]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.26.36:171][110]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.26.36:469][144]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.26.36:469][144]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.26.36:469][144]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.26.36:469][144]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.26.55:323][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.27.10:909][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.27.22:699][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.28.05:025][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.28.05:125][ 34]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.28.05:138][ 34]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.28.05:138][ 34]LogBlueprint: Error: [Compiler BP_Enemy_Turret] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.14-13.28.05:476][ 34]LogBlueprint: Warning: [Compiler BP_Enemy_Turret] [1208.70] Compile of BP_Enemy_Turret failed. 2 Fatal Issue(s) 0 Warning(s) [in 350 ms] (/Game/BlueprintsMain/Enemies/BP_Enemy_Turret.BP_Enemy_Turret)
+[2018.09.14-13.28.05:944][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.28.06:163][ 71]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankSceneE96D9AB44513632143BC78996B23686C.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.28.06:193][ 71]LogFileHelpers: Saving map 'TankScene' took 0.316
+[2018.09.14-13.28.06:205][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.28.06:250][ 71]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret438A9E3D49A5A988ADA108BD818CBE2E.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.28.08:066][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.28.26:678][477]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.28.28:366][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.28.28:618][638]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene1FD585C54CB276DF06FF58B34F35DFE4.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.28.28:650][638]LogFileHelpers: Saving map 'TankScene' took 0.349
+[2018.09.14-13.28.28:661][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.28.28:709][638]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_TurretAFA5264A41FB4E712151B2AE37923077.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.28.34:542][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.28.42:609][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-13.28.42:626][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.28.42:673][295]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_TurretAB82EAE744210D67C5F70584DAD4F366.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.28.44:197][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.28.44:288][468]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.28.48:613][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-13.28.48:629][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.28.48:677][922]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret62503D1F4AF13E75D886FFB8DF156EC7.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.28.52:475][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.28.56:680][850]LogEditorTransaction: Undo Set Scale
+[2018.09.14-13.28.56:698][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret_2.CollisionCylinder) Component already registered.
+[2018.09.14-13.28.56:719][850]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.BP_Enemy_Turret_C_0.CharacterMesh0) Component already registered.
+[2018.09.14-13.28.56:724][850]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.BP_Enemy_Turret_C_0.CharMoveComp) Component already registered.
+[2018.09.14-13.28.56:727][850]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.BP_Enemy_Turret_C_0.Arrow) Component already registered.
+[2018.09.14-13.28.56:729][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret_2.CharacterMesh0) Component already registered.
+[2018.09.14-13.28.56:732][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret_2.CharMoveComp) Component already registered.
+[2018.09.14-13.28.56:734][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret_2.Arrow) Component already registered.
+[2018.09.14-13.28.56:737][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret4.CharacterMesh0) Component already registered.
+[2018.09.14-13.28.56:739][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret2.CharMoveComp) Component already registered.
+[2018.09.14-13.28.56:742][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret4.CharMoveComp) Component already registered.
+[2018.09.14-13.28.56:745][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret4.Arrow) Component already registered.
+[2018.09.14-13.28.56:747][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret3.CharacterMesh0) Component already registered.
+[2018.09.14-13.28.56:749][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret3.CharMoveComp) Component already registered.
+[2018.09.14-13.28.56:752][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret3.Arrow) Component already registered.
+[2018.09.14-13.28.56:754][850]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/TankScene.TankScene:PersistentLevel.Enemy_Turret2.CharacterMesh0) Component already registered.
+[2018.09.14-13.28.57:119][850]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.362 s
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: 
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: 
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: Stack: 
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae1bd71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae1910c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae192b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba5eedf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba04514 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffad53a41a9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffad53a4ee5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffad5351a51 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0d7d0d2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0d43f79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0de6a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0bf93b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0b91444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadad60014 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffada9d8d70 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffada96f869 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadad64833 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadad4b550 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadacfb524 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadad50f0a UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffada90b41b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffada99843e UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffada9e5d9d UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba04dc6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba301fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba16535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba82dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadbac9b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadba5c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffada9705b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0b924df UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0bd437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadc2b3a6e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffadc2a1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0b570ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0bd606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffae0bc9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb0faece45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb0fae0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb0faef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb0fadc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb23496cc1 USER32.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb23496693 USER32.dll!UnknownFunction []
+[2018.09.14-13.28.57:119][850]LogOutputDevice: Error: [Callstack] 0x00007ffb0faf0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ff6aecb54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ff6aecc5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ff6aecc5bba UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ff6aecd3dac UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ff6aecd5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ffb23373034 KERNEL32.DLL!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: [Callstack] 0x00007ffb255b1461 ntdll.dll!UnknownFunction []
+[2018.09.14-13.28.57:120][850]LogOutputDevice: Error: 
+[2018.09.14-13.28.57:129][850]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.14-13.28.57:366][850]LogStats:                    SendNewReport -  0.237 s
+[2018.09.14-13.28.57:366][850]LogStats:             FDebug::EnsureFailed -  0.608 s
+[2018.09.14-13.28.57:408][850]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.28.57:427][850]Cmd: TRANSACTION UNDO
+[2018.09.14-13.28.57:427][850]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.14-13.28.57:430][850]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.28.57:430][850]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.28.57:430][850]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.28.57:432][850]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.28.58:222][939]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.28.58:494][971]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.28.58:843][ 12]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.28.59:110][ 37]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.28.59:136][ 40]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.28.59:186][ 46]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.28.59:367][ 67]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.28.59:513][ 84]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.28.59:520][ 85]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.28.59:696][103]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.28.59:696][103]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.28.59:777][112]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.28.59:962][133]LogEditorTransaction: Undo Modify Component(s)
+[2018.09.14-13.29.00:009][133]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.29.00:077][137]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.29.00:294][156]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.29.00:306][156]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.29.00:404][164]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.29.00:588][181]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.29.00:600][182]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.29.00:631][184]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.29.00:824][207]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.29.00:859][211]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.29.00:918][218]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.29.00:996][227]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.29.01:062][233]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.29.01:538][283]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.29.01:552][284]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.29.01:820][309]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.29.02:223][349]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.29.02:291][357]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.29.02:300][358]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.29.02:740][401]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.29.03:105][441]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.29.03:395][475]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.29.03:850][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-13.29.03:966][541]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.29.03:966][541]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.29.03:966][541]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.29.03:966][541]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.29.07:143][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-13.29.07:158][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.29.07:205][907]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret5F31695449681B22D1575C83B9E85A49.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.29.07:883][981]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.29.31:768][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.29.32:023][531]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene7C249EB049AEC3CD9B6EFE8878D9A499.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.29.32:055][531]LogFileHelpers: Saving map 'TankScene' took 0.351
+[2018.09.14-13.29.32:068][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.29.32:115][531]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret98D383884FE52C6756AFC3AB266088D4.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.30.15:351][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.30.15:399][884]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret3122682F4A0DA145DF3DBA8160E5E2A3.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.30.28:578][465]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.30.42:572][323]BlueprintLog: New page: Compile BP_EnemyProj1
+[2018.09.14-13.30.43:204][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.30.43:454][360]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene2A3F16DE4EEBD9069C40B480D25BD432.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.30.43:485][360]LogFileHelpers: Saving map 'TankScene' took 0.346
+[2018.09.14-13.30.43:498][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.30.43:540][360]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj190F1C5DB4D1E1BD8CC5313B0BBE62FE4.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.31.18:129][463]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.14-13.31.29:511][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.31.29:769][795]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankSceneA84FA696413383400DC70B9D35E501A6.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.31.29:801][795]LogFileHelpers: Saving map 'TankScene' took 0.354
+[2018.09.14-13.31.29:821][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.31.29:875][795]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret43EFDA03436FC913B1AF61BC1867A124.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.31.31:407][978]BlueprintLog: New page: Compile BP_Enemy_Turret
+[2018.09.14-13.31.33:500][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.31.33:752][187]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene69B13E9B4C189AF8DB852784A17C7256.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.31.33:783][187]LogFileHelpers: Saving map 'TankScene' took 0.347
+[2018.09.14-13.31.39:479][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlueprintsMain/Character/BP_Tank.BP_Tank
+[2018.09.14-13.31.50:141][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.31.50:188][ 51]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret7F8771E04ABC4743084BCEBCD520346F.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.31.56:505][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Enemies/BP_Enemy_Turret" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset" SILENT=true
+[2018.09.14-13.31.56:548][802]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_Enemy_Turret26ACCBDF482CCE8DBAEDA9ABEFC66F5C.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Enemies/BP_Enemy_Turret.uasset'
+[2018.09.14-13.32.28:622][636]BlueprintLog: New page: Compile BP_EnemyProj1
+[2018.09.14-13.32.37:373][657]Cmd: TRANSACTION UNDO
+[2018.09.14-13.32.37:374][657]LogEditorTransaction: Undo Create Pin Link
+[2018.09.14-13.32.37:386][657]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.32.37:429][658]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.32.37:429][658]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.32.37:429][658]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.32.37:731][692]Cmd: TRANSACTION UNDO
+[2018.09.14-13.32.37:731][692]LogEditorTransaction: Undo Move Node
+[2018.09.14-13.32.37:745][692]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.32.38:005][718]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.32.38:014][719]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.32.38:174][738]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.32.38:202][741]Cmd: TRANSACTION UNDO
+[2018.09.14-13.32.38:202][741]LogEditorTransaction: Undo Delete current selection
+[2018.09.14-13.32.38:217][741]LogMaterial: Display: Missing cached shader map for material M_EnemyColors, compiling. 
+[2018.09.14-13.32.38:258][741]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.14-13.32.38:328][750]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.14-13.32.38:450][764]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.14-13.32.38:604][782]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.14-13.32.38:612][783]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.14-13.32.38:758][799]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.14-13.32.38:833][808]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.14-13.32.38:944][821]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.14-13.32.38:954][822]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.14-13.32.39:069][835]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.14-13.32.39:104][839]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.14-13.32.39:210][851]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.14-13.32.39:651][902]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.14-13.32.39:756][914]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.14-13.32.39:833][923]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.14-13.32.40:208][967]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.14-13.32.40:208][967]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-13.32.40:448][995]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-13.32.40:727][ 27]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-13.32.40:769][ 32]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-13.32.40:778][ 33]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-13.32.41:302][ 94]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.14-13.32.41:302][ 94]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.14-13.32.41:302][ 94]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.14-13.32.41:302][ 94]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.14-13.32.44:560][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.32.44:815][468]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankSceneCED0C1B144D45974BAFC0FBEFAFC1E14.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.32.44:847][468]LogFileHelpers: Saving map 'TankScene' took 0.352
+[2018.09.14-13.32.44:868][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.32.44:901][468]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj10BA304AE49BC977B744E20ACBED2135D.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.32.45:796][574]BlueprintLog: New page: Compile BP_EnemyProj1
+[2018.09.14-13.32.54:807][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.32.55:057][603]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene28C6A06E4B623D89596611955C0A1C8B.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.32.55:088][603]LogFileHelpers: Saving map 'TankScene' took 0.345
+[2018.09.14-13.33.25:017][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.33.25:052][107]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj184E9936248E33A82681A3986EAFA2DDB.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.34.16:820][190]BlueprintLog: New page: Compile BP_EnemyProj1
+[2018.09.14-13.34.17:474][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TankScene" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.14-13.34.17:730][227]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/TankScene9AC8001D48D4283149FCA9937B095C64.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/Maps/TankScene.umap'
+[2018.09.14-13.34.17:764][227]LogFileHelpers: Saving map 'TankScene' took 0.356
+[2018.09.14-13.34.17:780][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.34.17:816][227]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj17C90D6974F7654DEBF2C258479B6E35C.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.34.31:492][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.34.31:525][860]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj18F2E86BD4633384BA7AF72B66F955939.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.34.45:186][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.34.45:221][486]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj1E51AAC5245D6F2DB1E081492B1406427.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.34.48:799][915]BlueprintLog: New page: Compile BP_EnemyProj1
+[2018.09.14-13.34.49:469][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueprintsMain/Projectiles/BP_EnemyProj1" FILE="D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset" SILENT=true
+[2018.09.14-13.34.49:504][966]LogSavePackage: Moving 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Saved/BP_EnemyProj1A25F91CA42F721D9F549D5AA7E47BB66.tmp' to 'D:/GitHub/Tank-InClass--MiniProject-/TankMovement/Content/BlueprintsMain/Projectiles/BP_EnemyProj1.uasset'
+[2018.09.14-13.35.09:463][801]LogUObjectArray: Warning: Invalid object index 7077999
+[2018.09.14-13.35.09:464][801]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: 
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: Stack: 
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae1bd71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae1910c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae192b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffadbe411db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffadbe5060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffad9d6da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffad912ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffad90ef337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae0ba8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae0dee933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae0c0281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae0bd8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffae0bcb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffb0faed007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffb0fae0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffb0faef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffb0fadc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.35.09:464][801]LogOutputDevice: Error: [Callstack] 0x00007ffb23496cc1 USER32.dll!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ffb23496693 USER32.dll!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ffb0faf0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ff6aecb54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ff6aecc5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ff6aecc5bba UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ff6aecd3dac UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ff6aecd5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ffb23373034 KERNEL32.DLL!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: [Callstack] 0x00007ffb255b1461 ntdll.dll!UnknownFunction []
+[2018.09.14-13.35.09:465][801]LogOutputDevice: Error: 
+[2018.09.14-13.35.09:473][801]LogStats:                SubmitErrorReport -  0.000 s
